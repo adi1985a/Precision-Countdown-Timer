@@ -9,6 +9,8 @@ _A sleek C++ Builder VCL application for accurate time tracking with system tray
 
 **Precision Countdown Timer Pro** is a polished and user-friendly desktop application developed using C++ Builder and its Visual Component Library (VCL). It provides a clear, real-time countdown from a user-specified (or default) number of seconds, displaying the remaining time in a convenient HH:MM:SS format. The timer updates every second, offering precise tracking. A key feature is its ability to minimize to the system tray, allowing for unobtrusive operation while keeping the countdown active. Upon reaching zero, the timer clearly indicates "END OF TIME!" and halts. This application is ideal for managing tasks, breaks, or any scenario requiring accurate time monitoring.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   ⏳ **Accurate Countdown**: Displays remaining time in HH:MM:SS format, updating every second.
@@ -19,12 +21,6 @@ _A sleek C++ Builder VCL application for accurate time tracking with system tray
     *   Easily restore the application window by clicking the tray icon.
 *   🔔 **End-of-Time Notification**: Clearly displays "END OF TIME!" on the GUI label when the countdown completes.
 *   🖥️ **Graphical User Interface (GUI)**: Built with VCL components for a native Windows look and feel.
-
-## 🖼️ Screenshots
-
-**Coming soon!**
-
-_This section will be updated with screenshots of the timer application window, the system tray icon, and the "END OF TIME!" message._
 
 ## ⚙️ System Requirements & VCL Components
 
